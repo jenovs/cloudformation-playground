@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "clientId",
+    "ParameterValue": "spotify-client-id"
+  },
+  {
+    "ParameterKey": "clientSecret",
+    "ParameterValue": "spotify-client-secret"
+  }
+]
